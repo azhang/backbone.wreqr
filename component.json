@@ -1,0 +1,28 @@
+{
+  "name": "backbone.wreqr",
+  "repo": "aaronz8/backbone.wreqr",
+  "description": "A Simple Service Bus For Backbone and Backbone.Marionette",
+  "homepage": "https://github.com/marionettejs/backbone.wreqr",
+  "keywords": [
+    "backbone",
+    "plugin",
+    "computed",
+    "field",
+    "model",
+    "client",
+    "browser"
+  ],
+  "author": "Derick Bailey <derickbailey@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marionettejs/backbone.marionette.git"
+  },
+  "dependencies": {
+    "components/underscore": "*",
+    "jashkenas/backbone": "*"
+  },
+  "scripts": [
+    "lib/amd/backbone.wreqr.js"
+  ],
+  "version": "0.2.0"
+}
