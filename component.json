@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "components/underscore": "*",
-    "jashkenas/backbone": "*"
+    "aaronz8/backbone": "*"
   },
   "scripts": [
     "lib/amd/backbone.wreqr.js"
